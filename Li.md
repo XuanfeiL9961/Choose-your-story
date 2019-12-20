@@ -5,4 +5,4 @@ Please buy our special item or leave!
 
 [Buy a random item from a random jar](Jar2.md)
 
-[Leave](Leave.md)
+[Leave](Leave2.md)
